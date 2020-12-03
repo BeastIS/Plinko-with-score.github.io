@@ -1,1 +1,2 @@
-# Plinko-with-score.github.io
+# PLINKO WITH SCORES
+  PLINKO WITH SCORES
